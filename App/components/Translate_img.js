@@ -14,7 +14,7 @@ const styles = StyleSheet.create({
 const Translate_img = () => {
     return (
         <Image
-        source={require("../../assets/translate-2@2x.png")}
+        source={require("../../assets/translate-2.png")}
         style={styles.Translate_img}/>
     )
 };

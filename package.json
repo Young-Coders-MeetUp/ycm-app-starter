@@ -12,6 +12,7 @@
     "@react-native-community/masked-view": "0.1.6",
     "@react-navigation/bottom-tabs": "^5.5.2",
     "@react-navigation/native": "^5.5.1",
+    "@react-navigation/stack": "^5.5.1",
     "@tensorflow-models/mobilenet": "^2.0.4",
     "@tensorflow/tfjs": "^2.0.1",
     "@tensorflow/tfjs-react-native": "^0.3.0",

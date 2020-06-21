@@ -3,6 +3,7 @@ import { Platform, StyleSheet, Text, View } from "react-native";
 import TFCamera from '../../components/TFCamera';
 import ScreenHeader from "../../components/ScreenHeader";
 
+
 export default function Translate() {
   return (
     <View>

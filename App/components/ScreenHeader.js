@@ -9,7 +9,7 @@ const styles = StyleSheet.create({
 	sign2wordText: {
 		backgroundColor: "transparent",
 		color: "rgb(103, 26, 87)",
-		fontSize: 48,
+		fontSize: 40,
 		fontStyle: "normal",
 		fontWeight: "bold",
 		textAlign: "center",

@@ -62,7 +62,7 @@ function NavigateTranslate({ navigation }) {
 function NavigateAbout({ navigation }) {
   return (
     <View style={{ flex: 1, flexDirection: "row", alignItems: 'center', justifyContent: 'space-around' }}>
-     <Translate_img />
+     <Text style={{color: "rgb(103, 26, 87)}}", fontSize: 30, fontWeight: "bold"}}>?      </Text>
      <Button
       title="About"
       onPress={() => navigation.navigate(About)}

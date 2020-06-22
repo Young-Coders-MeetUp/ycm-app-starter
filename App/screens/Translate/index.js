@@ -11,10 +11,9 @@ export default function Translate() {
         <ScreenHeader 
           title = "Translate"
           subtitle = "" 
-          height = {150}/>
+          height = {100}/>
       </View>
       <View style={styles.container}>
-        <Text style={styles.welcome}>Translate Page</Text>
         <TFCamera />
       </View>
     </View>
@@ -23,10 +22,7 @@ export default function Translate() {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
-    justifyContent: "center",
-    alignItems: "center",
-    backgroundColor: "#F5FCFF",
+    
   },
   welcome: {
     fontSize: 20,

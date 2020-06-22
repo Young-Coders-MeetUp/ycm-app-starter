@@ -9,3 +9,5 @@ Next, in your terminal, run `npm install`.
 After that has finished, run `Expo start`. 
 
 This will bring the Expo tools on the browser up, along with a QR code. Then, on your phone, scan the QR code and open the app.
+
+Here is an [test model](https://teachablemachine.withgoogle.com/models/2oDwO0oCa/https://teachablemachine.withgoogle.com/models/2oDwO0oCa/) built in Teachable Machine for 15 BSL words.
